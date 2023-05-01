@@ -51,7 +51,19 @@ In the interest of space, the MNIST and CIFAR10 datasets are not uploaded here. 
 
 ### Reference
 ---
-Gabriel Mancino-Ball, Yangyang Xu, and Jie Chen. [_A Decentralized Primal-Dual Framework for Non-convex Smooth Consensus Optimization_](https://arxiv.org/abs/2107.11321). Preprint arXiv:2107.11321, 2021.
+
+If you use this code in your research, please cite our paper:
+```
+@article{Mancino-Ball2023ADAPD,
+  author={Mancino-Ball, Gabriel and Xu, Yangyang and Chen, Jie},
+  journal={IEEE Transactions on Signal Processing}, 
+  title={A Decentralized Primal-Dual Framework for Non-Convex Smooth Consensus Optimization}, 
+  year={2023},
+  volume={71},
+  pages={525-538},
+  doi={10.1109/TSP.2023.3239799}
+}
+```
 
 ### License
 ---
